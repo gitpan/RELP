@@ -1,0 +1,6 @@
+Revision history for Perl extension RELP.
+
+1.00  Mon Mar 15 15:11:27 2010
+	- original version; created by h2xs 1.23 with options
+		-AX -n RELP -v 1.00
+

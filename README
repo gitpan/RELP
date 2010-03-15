@@ -1,0 +1,31 @@
+RELP
+=================
+
+RELP - Interface to sending messages over "Reliable Event Logging Protocol".
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Class::Accessor
+  IO::Socket
+  Carp
+
+COPYRIGHT AND LICENCE
+
+Copyright 2010 Ivan Trunaev <itrunaev@cpan.org>
+
+This program is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself.  That means either (a) the GNU General Public
+License or (b) the Artistic License.
+
+
